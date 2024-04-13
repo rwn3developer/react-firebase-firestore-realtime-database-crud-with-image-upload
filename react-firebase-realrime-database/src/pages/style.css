@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.view-user{
+    width: 60%;
+    height: 500px;
+    
+    margin: auto;
+    margin-top: 50px;
+}
